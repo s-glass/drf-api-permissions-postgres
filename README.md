@@ -46,7 +46,7 @@ Author: Sarah Glass for Python 401
 
 - python manage.py runserver
 - docker compose up --build
-- runs at `http://0.0.0.0:8000/api/v1/states/`
+- runs at `http://127.0.0.1:8000/api/v1/states/3`
 
 ## Libraries / Requirements
 
